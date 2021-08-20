@@ -13,14 +13,14 @@ The assumption of the project is to introduce a new brand to the market and sell
 
 + ## Project goals
 
-The aim of the project is to allow users to purchase product online with and without registration or login, checking shopping history after register and login on the page, received confirmation 
+The aim of the project is to sell handmade products made by the whole family. Enable users to buy the product online with registration and without logging in, check the purchase history after registering and logging in to the website, confirmation e-mail received.
 
 + ## User Stories
 
 |  __User Story ID__  | __As A/An__ |__I want to be able to...__ | __So then I can...__ |
 |-----|--|---------------------------|----------------------------|
 |    | __Viewing and Navigation__ |
-| 1. | Shopper | View a list of all product | Easily select some to purchase|
+| 1. | Shopper | View a list of all product | Easily select some of them to purchase|
 | 2. | Shopper | View individual product details | See decription, chose a size, identity price and product image. |
 | 3. | Shopper | Easily identify all special offers and clearance | recieved a savings on product I'd like to buy |
 | 4. | Shopper | View the total of my purchases at any time | Take control of my spending |
@@ -49,32 +49,23 @@ The aim of the project is to allow users to purchase product online with and wit
 
 ### Colours
 
-<img src="https://images92.fotosik.pl/496/d88fb2875b95a555.png">
-
-+ Aero Blue #D6FFDC - Main background color
-+ Lemon Yellow Crayola #FFFFB0 - Cards and brand background color
-+ Gunmetal #2E3340 - Default font color
-+ Duke Blue #0300A3 - Headings color
-+ Blood Red #680000 - Navbar, footer, separator brand font colour
 
 ### Font
-+ Irish growing - to set logo name
-+ Roboto Slab - to set as default style
-+ Bodoni Moda - to style inside button text and navigation bar menu.
+
 
 ### Wireframe
-The wireframe model is created as part of the project planning. Its task is to graphically present the appearance of the application on three different devices: computer - high resolution, tablet - medium resolution, mobile - low resolution. The application will be built on the basis of the created sketch
+The wireframe model is created as part of the project planning. Its task is to graphically present the appearance of the application on three different devices: computer - high resolution, tablet - medium resolution, mobile - low resolution. The application will be built on the basis of the created sketch.
 
 <details>
    <summary>Home</summary>
    <img src="">
 </details>
 <details>
-   <summary></summary>
+   <summary>All Products</summary>
    <img ">
 </details>
 <details>
-   <summary></summary>
+   <summary>Product view</summary>
    <img src="">
 </details>
 <details>
@@ -82,17 +73,14 @@ The wireframe model is created as part of the project planning. Its task is to g
    <img src="">
 </details>
 <details>
-   <summary>A</summary>
+   <summary>Bag and Checkout</summary>
    <img src="">
 </details>
 <details>
    <summary>Profile</summary>
    <img src="">
 </details>
-<details>
-   <summary></summary>
-   <img src="">
-</details>
+
 
 ### Differences between design and the end result
 
