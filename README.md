@@ -17,19 +17,29 @@ The aim of the project is to allow users to purchase product online with and wit
 
 + ## User Stories
 
-|    | As a visitor I'd like to: | Respond to the expectation |
------|---------------------------|----------------------------|
-| 1. | Get easy and clear navigation between function | Switch between the functionality is provide by links button located on the top of the web page in navbar.|
-| 2. | Find inspiration for meal | The site presents different types of meals with different ingredients in the recipes tab. |
-| 3. | Know how to be more ecologically | ecological expectations are presented using zero waste techniques. |
-| 4. | View, sort and search for dish idea with out registration | View and search for idea of recipe is provided by clicking button recipe at the top of the page in navbar. <br/>- Users can search the recipe after open the recipe view on the top. <br/>- Searching by type, ingredient, country origin. |
-| 5. | Create an account to comments and shere my own recipe | Registration if providing by button login/register located in navbar. |
-|    | __As a registered user i'd like to:__ | |
-| 6. | Add, edit or deleting my recipe. | After logging in to the website, the user can add recipes after clicking the add recipe tab. <br/>- Adding and removing recipes posted by the user is possible after selecting the profile option, which is on the navigation bar. |
-| 7. | I would like to make sure that no other user can edit or delete my recipes. | The user may edit and delete recipes only and exclusively added by himself. It is not possible to use these options in other users' recipes. Only Admnin can moderate all data input to eliminate any profanity. |
-|   | __As a owner of the site i'd like__ |  |
-| 8. | Only the administrator can moderate user input. The purpose of this assumption is to eliminate profanity that may appear in the comments or in the recipes themselves. | Only the administrator can moderate user input. The purpose of this assumption is to eliminate profanity that may appear in the comments or in the recipes themselves. |
-| 9. | Admin can add or change categories as needed. | Admin can add or change categories as needed.|
+|  __User Story ID  | As A/AN |I want to be able to... | So then I can...__ |
+|-----|--|---------------------------|----------------------------|
+|    | __Viewing and Navigation__ | |
+| 1. | Shopper | View a list of all product | Easily select some to purchase|
+| 2. | Shopper | View individual product details | See decription, chose a size, identity price and product image. |
+| 3. | Shopper | Easily identify all special offers and clearance | recieved a savings on product I'd like to buy |
+| 4. | Shopper | View the total of my purchases at any time | Take control of my spending |
+|    | __Registration and user account__ | |
+| 5. | Site User | Register for an account | Create my personal account to view my purchase histrory, save payment and shipping information |
+| 6. | Site User | Receive an email confirmation after registering | Verify that my account registration was successful |
+| 7. | Site User | Easily login/logout or reset my password in case I forget it | Access to personal account information and recover my password |
+|    | __Admin and Store Management__ | |
+| 8. | Store Owner | Add product | Add new items to my store |
+| 9. | Store owner | Edit/Update and Delete a product | Change product description, price, images and remove items that are no longer for sale |
+|    | __Sorting and Searching__ | |
+| 10.| Shopper | Sort the list of available products and specific category | Easily sort list of the product in that category by name or price |
+| 11.| Shopper | Sort multiple categories of products | Sort product by price, name and by categories for all available product | 
+| 12.| Shopper | Search for a product by name or description and see number of results | Find a specific product I'd like to purchase and see how many product is available |
+|    | __Purchasing and Checkout__ | |
+| 13.| Shopper | Easly select the size and quantity | Ensure I dont select the wrong product, quantity or size |
+| 14.| Shopper | View item in my bag and update them if needed | Identify the total cost of my purchase and all items I will received, and change quantity or remove items from bag if needed. |
+| 15.| Shopper | View an order confirmation after checkout and receive email after checkout | Make sure I haven't made any mistakes with my order and keep the purchase confirmation of what I bought for my own record. |
+| 16.| Shopper | Feel my personal and paymant information is safe and secure. | Confidentialy provide the needs information to make a purchase |
 
 ---
 # ***Design***
