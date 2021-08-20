@@ -17,25 +17,25 @@ The aim of the project is to allow users to purchase product online with and wit
 
 + ## User Stories
 
-|  __User Story ID  | As A/AN |I want to be able to... | So then I can...__ |
+|  __User Story ID__  | __As A/An__ |__I want to be able to...__ | __So then I can...__ |
 |-----|--|---------------------------|----------------------------|
-|    | __Viewing and Navigation__ | |
+|    | __Viewing and Navigation__ |
 | 1. | Shopper | View a list of all product | Easily select some to purchase|
 | 2. | Shopper | View individual product details | See decription, chose a size, identity price and product image. |
 | 3. | Shopper | Easily identify all special offers and clearance | recieved a savings on product I'd like to buy |
 | 4. | Shopper | View the total of my purchases at any time | Take control of my spending |
-|    | __Registration and user account__ | |
+|    | __Registration and user account__ |
 | 5. | Site User | Register for an account | Create my personal account to view my purchase histrory, save payment and shipping information |
 | 6. | Site User | Receive an email confirmation after registering | Verify that my account registration was successful |
 | 7. | Site User | Easily login/logout or reset my password in case I forget it | Access to personal account information and recover my password |
-|    | __Admin and Store Management__ | |
+|    | __Admin and Store Management__ |
 | 8. | Store Owner | Add product | Add new items to my store |
 | 9. | Store owner | Edit/Update and Delete a product | Change product description, price, images and remove items that are no longer for sale |
-|    | __Sorting and Searching__ | |
+|    | __Sorting and Searching__ |
 | 10.| Shopper | Sort the list of available products and specific category | Easily sort list of the product in that category by name or price |
 | 11.| Shopper | Sort multiple categories of products | Sort product by price, name and by categories for all available product | 
 | 12.| Shopper | Search for a product by name or description and see number of results | Find a specific product I'd like to purchase and see how many product is available |
-|    | __Purchasing and Checkout__ | |
+|    | __Purchasing and Checkout__ |
 | 13.| Shopper | Easly select the size and quantity | Ensure I dont select the wrong product, quantity or size |
 | 14.| Shopper | View item in my bag and update them if needed | Identify the total cost of my purchase and all items I will received, and change quantity or remove items from bag if needed. |
 | 15.| Shopper | View an order confirmation after checkout and receive email after checkout | Make sure I haven't made any mistakes with my order and keep the purchase confirmation of what I bought for my own record. |
